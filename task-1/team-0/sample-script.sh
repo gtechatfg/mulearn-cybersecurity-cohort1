@@ -7,4 +7,4 @@ function request_ip() {
     done < $LOG_FILE
 }
 request_ip
-#this sample script prints the IPs that have tryed to access the server
+#this sample script prints the IPs that have tried to access the server

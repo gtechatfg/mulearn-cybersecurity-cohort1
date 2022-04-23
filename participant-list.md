@@ -11,20 +11,20 @@
 |          |                                                                 | Krishnendhu S                |
 |          |                                                                 | Aliya Baisal Mathew          |
 |          |                                                                 | Yadhu Nandan G               |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 2   | M. Dasan Institute of Technology Ulliyeri                       | Rithin Lehan                 |
 |          |                                                                 | Falah MPM                    |
 |          |                                                                 | Muhammed Finu                |
 |          |                                                                 | Nihad Abdul Nazar            |
 |          |                                                                 | Wazeen Faizal                |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 3   | Mar Baselios College of Engineering and Technology, Trivandrum  | Aaron K                      |
 |          | NSS College Of Engineering, Palakkad                            | Chaitanya Liz                |
 |          | Government Polytechnic College, Perunthalmana                   | Salim Umer                   |
 |          | Government Engineering College, Idukki                          | Aby V J                      |
 |          |                                                                 | Adil S                       |
 |          | St John’s School,Pathanamthitta                                 | Meenakshy Girish             |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 4   | Government College of Engineering, Kannur                       | Anjeleena k                  |
 |          |                                                                 | Amritha K P                  |
 |          |                                                                 | Akshatha S                   |
@@ -37,7 +37,7 @@
 |          |                                                                 | Aromal EK                    |
 |          |                                                                 | Ramnath Shenoy B             |
 |          |                                                                 | Anulakshmi P B               |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 5   | Government college of Engineering, Kannur                       | Sanika Nandakumar            |
 |          |                                                                 | Alaka P                      |
 |          |                                                                 | Numa                         |
@@ -49,7 +49,7 @@
 |          |                                                                 | Amrutha Aneesh               |
 |          |                                                                 | ANEEF S                      |
 |          |                                                                 | Razeen Mahroof               |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 6   | Amrita Vishwa Vidyapeetham,Amritapuri                           | Aishwarya Santhosh           |
 |          |                                                                 | Shradha.R.Nair               |
 |          |                                                                 | Abinanthana Jayaram          |
@@ -59,25 +59,25 @@
 |          |                                                                 | Thamanna A                   |
 |          |                                                                 | Parvathy Pradeep             |
 |          |                                                                 | Mekha Manoj                  |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 7   | College of Engineering, Kallooppara                             | Nikhil Jose                  |
 |          |                                                                 | Adwaith Anil                 |
 |          |                                                                 | Roshan Alex                  |
 |          |                                                                 | Marshal P Mathew             |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 8   | College Of Engineering, Chengannur                              | R Ashwin                     |
 |          |                                                                 | Abin T Sunil                 |
 |          |                                                                 | Karthik Vijay                |
 |          |                                                                 | Gaurisankar A K              |
 |          |                                                                 | Mohamed Faris                |
 |          |                                                                 | Ravishankar V                |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 9   | KMCT College Of Engineering                                     | VRISHAB N                    |
 |          |                                                                 | FAMINA V P                   |
 |          |                                                                 | ARUN K                       |
 |          |                                                                 | SIGHA C K                    |
 |          |                                                                 | SHAMNA P                     |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 10  | St. Joseph's College of Engineering and Technology, Palai       | Jovit Mathew                 |
 |          |                                                                 | Abin Sojan                   |
 |          |                                                                 | Haleem Muhsin                |
@@ -91,14 +91,14 @@
 |          |                                                                 | Alen P Aji                   |
 |          |                                                                 | Alan Peter                   |
 |          |                                                                 | Nevin M Noby                 |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 11  | Vidya Academy of Science and Technology, Thrissur               | FEBIN RAJAN                  |
 |          |                                                                 | BINIL V B                    |
 |          |                                                                 | IGNATIUS NOBEL CHITTILAPILLY |
 |          |                                                                 | JIBIN C BABY                 |
 |          |                                                                 | ELVIN JIMMY                  |
 |          |                                                                 | JOEL SABU                    |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 12  | Muthoot Institute of Technology and Science                     | Nikitha Mary Jacob           |
 |          |                                                                 | Advaith Narayanan            |
 |          |                                                                 | Adrin Jose C T               |
@@ -109,12 +109,12 @@
 |          |                                                                 | Fahad Abdullah               |
 |          |                                                                 | Amalendu P                   |
 |          |                                                                 | S.Abhijith                   |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 13  | Saintgits College of Engineering (Autonomous), Kottayam, Kerala | Surya Merlin Jose            |
 |          |                                                                 | Shanu Shaji                  |
 |          |                                                                 | Joel Joseph                  |
 |          |                                                                 | Roshan Joe Benny             |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 14  | Sr. Joseph's College of Engineering and Technology, Palai       | Juna Teres Martin            |
 |          |                                                                 | MARIYA MICHAEL               |
 |          |                                                                 | DEVIPRIYA T.V.               |
@@ -126,14 +126,14 @@
 |          |                                                                 | Rithika AnilKumar            |
 |          |                                                                 | Tomin Joy                    |
 |          |                                                                 | Jerin Jacob                  |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 15  | Trinity College of Engineering, Trivandrum                      | Ardra Suresh                 |
 |          |                                                                 | Vaishnavi VS                 |
 |          |                                                                 | Amaldev S                    |
 |          |                                                                 | Akash S                      |
 |          |                                                                 | Anu Robinson RS              |
 |          |                                                                 | Shinoj S. S                  |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 16  | Government College of Engineering, Kannur                       | Amal Ganesh                  |
 |          |                                                                 | Adithya C Ashok              |
 |          |                                                                 | Thejus M Manoj               |
@@ -145,7 +145,7 @@
 |          |                                                                 | Devika Jagadeesh             |
 |          |                                                                 | Aswathi P.V.                 |
 |          |                                                                 | Rohith TN                    |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 17  | St. Joseph's College of Engineering and Technology, Palai       | Rogy Benni                   |
 |          |                                                                 | Mathew K Raino               |
 |          |                                                                 | Niketh A Unnithan            |
@@ -156,7 +156,7 @@
 |          |                                                                 | Alan Augustin Jacob          |
 |          |                                                                 | Devamanas S S                |
 |          |                                                                 | Aayush G                     |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 18  | Carmel College of Engineering and Technology, Allapuzha         | ASWIN S SESHADRI             |
 |          |                                                                 | Athira Ajikumar B            |
 |          |                                                                 | Ameena m                     |
@@ -165,7 +165,7 @@
 |          |                                                                 | Ansu Varghese                |
 |          |                                                                 | Amala Kuriyakose             |
 |          |                                                                 | Ayana R                      |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 19  | Government College of Engineering, Kannur                       | AISWARYA K                   |
 |          |                                                                 | Anuvinda Sathyan             |
 |          |                                                                 | Hemant krishnan              |
@@ -177,7 +177,7 @@
 |          |                                                                 | Nithya M                     |
 |          |                                                                 | Neha P                       |
 |          |                                                                 | Fatima Sana P V              |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 20  | Sr. Joseph's College of Engineering and Technology, Palai       | Kennith Joseph               |
 |          |                                                                 | Deepna Maria Jimson          |
 |          |                                                                 | Kavya K A                    |
@@ -187,7 +187,7 @@
 |          |                                                                 | Akhil Sabu                   |
 |          |                                                                 | Indrajith S Nair             |
 |          |                                                                 | Kiran Babu                   |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 21  | Trinity College of Engineering, Trivandrum                      | Arun M                       |
 |          |                                                                 | Rijith Mohan                 |
 |          |                                                                 | Adithyan R S                 |
@@ -202,19 +202,19 @@
 |          |                                                                 | Aneeshma. As                 |
 |          |                                                                 | Jeena B                      |
 |          |                                                                 | B.S Athira                   |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 22  | EMEA College of Arts and Science, Malappuram                    | Aseel                        |
 |          |                                                                 | Nahyan sharvin               |
 |          |                                                                 | Fahmin                       |
 |          |                                                                 | Shibil Basith                |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 23  | SCHOOL OF ENGINEERING, CUSAT,Ernamkulam                         | SANU MUHAMMED C              |
 |          |                                                                 | NIHAL VADAKKAN               |
 |          |                                                                 | SHAS                         |
 |          |                                                                 | ARSHAD A T                   |
 |          |                                                                 | Liya Elsa Benny (CUCEK)      |
 |          |                                                                 | SALMAN FARIS P P             |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 24  | Government College Of Engineering, Kannur                       | Mohammed Salih M             |
 |          |                                                                 | Athif Alavi VP               |
 |          |                                                                 | Karthik Mohan                |
@@ -224,12 +224,12 @@
 |          |                                                                 | Saurav Sivaprasad            |
 |          |                                                                 | Abhijith Dileep MV           |
 |          |                                                                 | Azmi Zaidan                  |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 25  | Muhammed Abdurahiman Memorial Orphanage College Kozhikode       | Fathima Rinsha P             |
 |          |                                                                 | Anand P                      |
 |          |                                                                 | Muhammed Shahal P K          |
 |          |                                                                 | Ramsheed Dilhan P M          |
-|----------|-----------------------------------------------------------------|------------------------------|
+|          |                                                                 |                              |
 | TEAM 26  | College of Engineering, Trivandrum                              | Abhijith N P                 |
 |          |                                                                 | Balakrishnan L H             |
 |          |                                                                 | Manjunath Roy                |

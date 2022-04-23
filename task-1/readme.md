@@ -10,13 +10,13 @@ Script 3 : Create a bash script that takes an IP address as input and prints out
 
 What to do is outlined below:
 
-👉 Fork the repository from here  https://github.com/gtechatfg/mulearn-cybersecurity-cohort1
-👉 You can find 3 files in the repository access.log, Participant-list.xlsx and a directory task-1
-👉 Use the access.log file as the program's input
-👉 Create a directory using your team number as the name inside task-1 directory; you can find your team number in the Participant-list.xlsx , for example team-1 where 1 should be changed in respective of your team number
-👉 A sample script that filters out IP from the log file can be found in the team-0 directory; use it as a reference
-👉 Push the script to GitHub in such a way that each team has its own sub-directory; otherwise, it will not be accepted
-👉 Make a pull request to the source repository; we will use this pull request to evaluate your code.
+- 👉 Fork the repository from here  https://github.com/gtechatfg/mulearn-cybersecurity-cohort1
+- 👉 You can find 3 files in the repository access.log, Participant-list.xlsx and a directory task-1
+- 👉 Use the access.log file as the program's input
+- 👉 Create a directory using your team number as the name inside task-1 directory; you can find your team number in the Participant-list.xlsx , for example team-1 where 1 should be changed in respective of your team number
+- 👉 A sample script that filters out IP from the log file can be found in the team-0 directory; use it as a reference
+- 👉 Push the script to GitHub in such a way that each team has its own sub-directory; otherwise, it will not be accepted
+- 👉 Make a pull request to the source repository; we will use this pull request to evaluate your code.
 For someone with prior experience, this would be a simple task; however, if you are unable to crack it right away, take your time, do more research, and don't hesitate to reach out if you have any doubts. 
 I hope you would enjoy this task.
 

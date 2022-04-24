@@ -5,7 +5,7 @@
 |          |                                                                 | Advaith Narayanan            |
 |          |                                                                 | Adrin Jose C T               |
 |          |                                                                 | Joji J Panackal              |
-|          |                                                                 | BHAVAN S                     |
+|          |                                                                 | Bhavan S                     |
 |          |                                                                 | Jerit Joshy                  |
 |          |                                                                 | Rohit Babu George            |
 |          |                                                                 | Fahad Abdullah               |

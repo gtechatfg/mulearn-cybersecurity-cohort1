@@ -1,1 +1,11 @@
-
+_MyIP="$( ip route get 8.8.8.8 | awk 'NR==1 {print $NF}' )"
+if [ "A$_MyIP" == "A" ]
+then
+    _MyIPs="$( hostname -I )"
+    for _MyIP in "$_MyIPs"
+    do
+        echo "Found IP: \"$_MyIP\""
+    done
+else
+    echo "Found IP: $_MyIP"
+fi

@@ -1,0 +1,4 @@
+$ awk '{ print $1 } ' apache_log
+$ awk '{ print $1 } ' apache_log | sort
+$ awk '{ print $1 } ' apache_log | sort | uniq
+$ awk '{ print $1 } ' apache_log | sort | uniq | wc -l

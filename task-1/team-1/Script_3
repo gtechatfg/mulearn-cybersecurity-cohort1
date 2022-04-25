@@ -1,0 +1,8 @@
+echo "Hi"
+
+echo "enter the IP: "
+
+read ip
+
+#file where the IPs are stored
+for ip in $(cat access_log.txt); do ping $ip & done

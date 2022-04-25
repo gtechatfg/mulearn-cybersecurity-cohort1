@@ -8,6 +8,6 @@ function printip_request() {
     if [[ "${passip} == "$ip" ]] ; then
       echo "$line"
     fi
-  done< $LOG_FILE
+  done < $LOG_FILE
 }
 printip_request "$input"  

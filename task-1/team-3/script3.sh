@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-LOG_FILE="../access.log"
+LOG_FILE="./access.log"
 
 read -p "Enter the ip address: " input_ip
 
@@ -8,7 +8,7 @@ function get_request() {
         ip=$(echo $line | awk '{print $1}')
         if [ $ip == $input_ip ];
         then
-            echo $line
+            echo $line | awk -F '"' '{print $2}'
         fi
     done < $LOG_FILE
 }

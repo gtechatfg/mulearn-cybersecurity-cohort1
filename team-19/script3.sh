@@ -5,7 +5,7 @@ function printip_request() {
   passip="$2"
   while read -r line; do
     ip=$(echo "$line" | awk '{print $1}')
-    if [[ "${passip} == "$ip" ]] ; then
+    if [[ "${passip} == "$ip" ]]; then
       echo "$line"
     fi
   done < $LOG_FILE

@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# traversing to the directory where access log is stored
+cd /home/neutreon/GTECH_CYSEC_101/T2
+
+cat access_log.txt 
+# trying to read the data in the file as input
+for line in access_log.txt;do
+ip=$(echo $line | awk '{print $1}') | cut -d " " -f 1
+echo '$ip'
+done
+# i tried a lot of methods but nothing seems to be working
+:'cd /home/neutreon/GTECH_CYSEC_101/T2
+LOG_FILE= cat access_log.txt
+function request_ip() {
+    while read line; do
+    ip=$(echo $line | awk -F " " '{print $1}')
+        date=$(echo $line | awk -F "[" '{print $2}' | awk -F ":" '{print $1}')
+        echo "On $date, a login attempt was made, with the request coming from the IP $ip"
+    done < $LOG_FILE
+}
+request_ip'
+
+:'#reading input from access_log.txt
+for line in access_log.txt; do
+
+#trying to seperate IP from the date
+  ip="$(grep -oE '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' <<< "$line")"
+
+#printing the seperated ip
+  echo "$ip"
+done'

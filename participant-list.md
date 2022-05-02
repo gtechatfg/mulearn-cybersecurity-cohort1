@@ -22,8 +22,10 @@
 |          | NSS College Of Engineering, Palakkad                            | Chaitanya Liz                |<ul><li>- [x] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
 |          | Government Polytechnic College, Perunthalmana                   | Salim Umer                   |<ul><li>- [x] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
 |          | Government Engineering College, Idukki                          | Aby V J                      |<ul><li>- [ ] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
-|          |                                                                 | Adil S                       |<ul><li>- [ ] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
+|          |  Government Engineering College, Idukki                         | Adil S                       |<ul><li>- [ ] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
 |          | St John’s School,Pathanamthitta                                 | Meenakshy Girish             |<ul><li>- [ ] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
+|          | Albertian Institute of Science & Technology                     | Bijoy Sijo                   |<ul><li>- [ ] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
+|          | LBS Kasargod                                                    | Sooraj P                     |<ul><li>- [ ] </li></ul>|                        |<ul><li>- [ ] </li></ul>|
 |          |                                                                 |                              |                        |                        |                        |
 | TEAM 4   | Government College of Engineering, Kannur                       | Anjeleena k                  |<ul><li>- [x] </li></ul>|                        |<ul><li>- [x] </li></ul>|
 |          |                                                                 | Amritha K P                  |<ul><li>- [x] </li></ul>|                        |<ul><li>- [x] </li></ul>|

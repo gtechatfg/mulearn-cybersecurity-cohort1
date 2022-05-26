@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#requiement sudo permission and nmap installed
 PORT_FILE="port_file.txt"
 
 function port_find() {

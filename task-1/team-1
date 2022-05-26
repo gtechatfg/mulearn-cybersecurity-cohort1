@@ -1,0 +1,16 @@
+es (11 sloc)  541 Bytes
+  
+#!/usr/bin/env bash
+#team-1
+#Develop a bash script to find all the login attempts and print out the day of the login attempt and the IP address
+LOG_FILE="../access.log"
+function get_login( ) {
+    while read line; do
+        ip=$(echo $line | awk '{print $1}')
+        date=$(echo $line | awk -F "[" '{print $2}' | awk -F ":" '{print $1}')
+        echo 'On' $date', a login attempt was made, with the request coming from the IP ' $ip
+    done < $LOG_FILE
+}
+get_login
+
+#sample bash script to check the all login attempts and print them

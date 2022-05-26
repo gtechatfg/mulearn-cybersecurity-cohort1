@@ -26,6 +26,6 @@ function status_record() {
 }
 while true; do
     status_record
-    sleep 1m
+    sleep 60m
 
 done

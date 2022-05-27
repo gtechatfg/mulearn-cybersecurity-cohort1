@@ -1,0 +1,9 @@
+Task 3
+curl -u username:password http://gincy.pythonanywhere.com/getusers
+
+Task 4
+curl -k 'http://gincy.pythonanywhere.com/login' -X POST -H 'Content-Type: application/json' -d '{"username":"vinay","password":"vinay@123"}'
+
+curl -k 'http://gincy.pythonanywhere.com/login' -X POST -H 'Content-Type: application/json' -d '{"username":"johan","password":"johan@432"}'
+
+curl -k 'http://gincy.pythonanywhere.com/login' -X POST -H 'Content-Type: application/json' -d '{"username":"alice","password":"Alice@876"}'

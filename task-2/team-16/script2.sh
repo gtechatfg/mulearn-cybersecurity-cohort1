@@ -8,7 +8,7 @@ function status_record() {
     up_or_down=""
 
 
-    ping 103.153.105.81 & 
+    ping "$1" & 
     sleep 5 && pingResponse=$? && kill -9 "$(pgrep ping)"
     
 
@@ -20,12 +20,13 @@ function status_record() {
         suc_or_fal="failed"
     fi
 
-    result="${time} => ${date} :ping ${suc_or_fal} 142.250.67.174 host is ${up_or_down}"
+    result="${time} => ${date} :ping ${suc_or_fal} $1 host is ${up_or_down}"
     echo "$result"
     echo "$result" >> host_network_moniter.txt
 }
+
 while true; do
-    status_record
+    status_record "142.250.67.174"
     sleep 60m
 
 done

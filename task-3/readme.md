@@ -12,9 +12,9 @@ This week's tasks are listed below.
 
 👉 Create a PDF report with a short description about the vulnerability and how to mitigate it; use the sample report as a reference
 
-👉 Push the script to GitHub in such a way that each team has its own sub-directory inside task-3 directory just like the previous task; otherwise, it will not be accepted
+👉 Push the PDF report to GitHub in such a way that each team has its own sub-directory inside task-3 directory just like the previous task; otherwise, it will not be accepted
 
-👉 Make a pull request to the source repository; we will use this pull request to evaluate your code.
+👉 Make a pull request to the source repository; we will use this pull request to evaluate your report.
 
 
 Task points will be assigned based on the report's readability; it is preferable if every team member contributes. Because this is a group activity, it would be better if you could collaborate by meeting in person or virtually for a better outcome.

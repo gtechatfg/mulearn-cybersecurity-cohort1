@@ -7,9 +7,13 @@ This week's tasks are listed below.
 
 
 👉 Fork the repository from here  https://github.com/gtechatfg/mulearn-cybersecurity-cohort1
+
 👉 In directory task-3 you can find a sample PDF report under team-0 named sample-report.pdf.
+
 👉 Create a PDF report with a short description about the vulnerability and how to mitigate it; use the sample report as a reference
+
 👉 Push the script to GitHub in such a way that each team has its own sub-directory inside task-3 directory just like the previous task; otherwise, it will not be accepted
+
 👉 Make a pull request to the source repository; we will use this pull request to evaluate your code.
 
 

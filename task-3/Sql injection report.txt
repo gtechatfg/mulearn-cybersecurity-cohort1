@@ -1,0 +1,49 @@
+𝗦𝗤𝗟 𝗜𝗻𝗷𝗲𝗰𝘁𝗶𝗼𝗻
+    SQL injection, commonly referred to as SQLI, is an attack where an application allows unauthorized users to send SQL queries to the database and gain access to information they shouldn’t.
+    
+    𝗣𝗿𝗲𝘃𝗲𝗻𝘁 𝗦𝗤𝗟 𝗜𝗻𝗷𝗲𝗰𝘁𝗶𝗼𝗻 𝗔𝘁𝘁𝗮𝗰𝗸𝘀
+     *Validate user input
+     *Limit the use of special characters such as string concatenation
+     *Use stored procedures in the database
+     *Actively install security patches and updates
+     *Implement a Web Application Firewall
+     *Harden your Operating System and Applications
+     
+     Occurrence:
+          Occurrece 1
+          URL:http://10.10.121.251/vulnerabilities/sqli/?id=1&Submit=Submit#
+          Parameter : User id
+          Payload: 1
+          Images: 
+            
+             https://im.ge/i/FDOZg1
+             
+             
+             https://im.ge/i/FDOKef
+             
+             
+       Occurrence 2
+               URL:http://10.10.121.251/vulnerabilities/sqli/?id=1&Submit=Submit#
+               Parameter : User id
+               Payload: ' union select null, @@hostname#
+               Images :
+               
+               https://im.ge/i/FDOkEr
+               
+               
+               
+               
+               https://im.ge/i/FDOpS0
+               
+               
+               
+               
+        Occurrence 3
+               URL:http://10.10.121.251/vulnerabilities/sqli/?id=1&Submit=Submit#
+               Parameter : User id
+               Payload: ' union select null, @@version()#
+               Images :
+               
+               https://im.ge/i/FDOJVc
+               
+               https://im.ge/i/FDOB0G

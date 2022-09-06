@@ -1,0 +1,14 @@
+18:51:39 => 26/05/2022 :ping success 142.250.67.174 host is up
+20:26:44 => 26/05/2022 :ping success 142.250.67.174 host is up
+20:30:17 => 26/05/2022 :ping success 142.250.67.174 host is up
+21:36:15 => 01/06/2022 :ping success 142.250.67.174 host is up
+21:40:43 => 01/06/2022 :ping success DEFAULTVALUE host is up
+21:42:39 => 01/06/2022 :ping success  host is up
+21:48:18 => 01/06/2022 :ping success  host is up
+21:48:35 => 01/06/2022 :ping success 1 host is up
+21:50:16 => 01/06/2022 :ping success  host is up
+21:53:17 => 01/06/2022 :ping success 142.250.67.174 host is up
+21:53:39 => 01/06/2022 :ping success 0 host is up
+21:54:40 => 01/06/2022 :ping success 10.0.0.1 host is up
+21:54:49 => 01/06/2022 :ping success 10.0.0.11 host is up
+21:55:25 => 01/06/2022 :ping success 192.168.1.45 host is up

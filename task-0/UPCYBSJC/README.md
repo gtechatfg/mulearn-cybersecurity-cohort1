@@ -12,6 +12,11 @@ A wide range of damaging attacks can often be delivered via SQL injection, inclu
     - Submitting payloads like "1 and 1=1" and "' OR 1=1--" in the login credentials resulted in successful authentication bypass.
     - Submitting the payload `<username>'--` in the username field granted access without the need for a valid password.
     - The payloads manipulated the SQL query, allowing unauthorized access to the application.
+### Screenshots
+<img title="Screenshots" alt="Request image" src="/images/Requests.png">
+<img title="Output" alt="Raw output" src="/images/SQL.png">
+<img title="Rendered output" alt="Rendered" src="/images/Rendered.png">
+
 ### Remediation
 
 The most effective way to prevent SQL injection attacks is to use parameterized queries (also known as prepared statements) for all database access. This method uses two steps to incorporate potentially tainted data into SQL queries: first, the application specifies the structure of the query, leaving placeholders for each item of user input; second, the application specifies the contents of each placeholder. Because the structure of the query has already been defined in the first step, it is not possible for malformed data in the second step to interfere with the query structure. You should review the documentation for your database and application platform to determine the appropriate APIs which you can use to perform parameterized queries. It is strongly recommended that you parameterize _every_ variable data item that is incorporated into database queries, even if it is not obviously tainted, to prevent oversights occurring and avoid vulnerabilities being introduced by changes elsewhere within the code base of the application.

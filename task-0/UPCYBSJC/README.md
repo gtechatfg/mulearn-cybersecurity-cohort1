@@ -13,7 +13,7 @@ A wide range of damaging attacks can often be delivered via SQL injection, inclu
     - Submitting the payload `<username>'--` in the username field granted access without the need for a valid password.
     - The payloads manipulated the SQL query, allowing unauthorized access to the application.
 ### Screenshots
-<img title="Screenshots" alt="Request image" src="/images/Requests.png">
+<img title="Screenshots" alt="Request image" src="task-0/UPCYBSJC/images/Requests.png">
 <img title="Output" alt="Raw output" src="/images/SQL.png">
 <img title="Rendered output" alt="Rendered" src="/images/Rendered.png">
 

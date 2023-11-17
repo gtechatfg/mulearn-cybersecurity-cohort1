@@ -8,14 +8,20 @@ SQL injection vulnerabilities arise when user-controllable data is incorporated 
 
 A wide range of damaging attacks can often be delivered via SQL injection, including reading or modifying critical application data, interfering with application logic, escalating privileges within the database and taking control of the database server.
 1. **Reproduction:**
-    
     - Submitting payloads like "1 and 1=1" and "' OR 1=1--" in the login credentials resulted in successful authentication bypass.
     - Submitting the payload `<username>'--` in the username field granted access without the need for a valid password.
     - The payloads manipulated the SQL query, allowing unauthorized access to the application.
 ### Screenshots
-<img title="Screenshots" alt="Request image" src="task-0/UPCYBSJC/images/Requests.png">
-<img title="Output" alt="Raw output" src="/images/SQL.png">
-<img title="Rendered output" alt="Rendered" src="/images/Rendered.png">
+<img title="Screenshots" alt="Request image" src="images/Requests.png">
+The above image shows the captured requests after a successful login.
+<br>
+<br>
+<img title="Output" alt="Raw output" src="images/SQL.png">
+This image shows the raw response after the payload injection.
+<br>
+<br>
+<img title="Rendered output" alt="Rendered" src="images/Rendered.png">
+The image above shows the rendered response after payload injection.
 
 ### Remediation
 

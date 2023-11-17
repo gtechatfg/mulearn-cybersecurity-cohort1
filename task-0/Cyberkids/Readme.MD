@@ -43,3 +43,29 @@ Recommendation
 We recommend to carefully review the content of the policy file and permit access only for legitimate domains.
 
 # Vulnerability 5
+Vulnerabilities found for server-side software
+Risk Level: High
+
+Risk description
+These vulnerabilities expose the affected applications to the risk of unauthorized access to confidential data and possibly to denial of service attacks. An attacker could search for an appropriate exploit (or create one himself) for any of these vulnerabilities and use it to attack the system.
+
+Recommendation
+It is recommended to upgrade the affected software to the latest version in order to eliminate the risk of these vulnerabilities.
+
+Example of Vulnerability found: 
+1) CVE-2017-8923
+
+The zend_string_extend function in Zend/zend_string.h in PHP through 7.1.5 does not prevent changes to string objects that result in a negative length, which allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact by leveraging a script's use of .= with a long string.
+
+2) CVE-2015-9253
+
+An issue was discovered in PHP 7.3.x before 7.3.0alpha3, 7.2.x before 7.2.8, and before 7.1.20. The php-fpm master process restarts a child process in an endless loop when using program execution functions (e.g., passthru, exec, shell_exec, or system) with a non-blocking STDIN stream, causing this master process to consume 100% of the CPU, and consume disk space with a large volume of error logs, as demonstrated by an attack by a customer of a shared-hosting facility.
+
+3) CVE-2022-31629	
+
+In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications.
+
+4) CVE-2017-7272	
+
+PHP through 7.1.11 enables potential SSRF in applications that accept an fsockopen or pfsockopen hostname argument with an expectation that the port number is constrained. Because a :port syntax is recognized, fsockopen will use the port number that is specified in the hostname argument, instead of the port number in the second argument of the function.
+
